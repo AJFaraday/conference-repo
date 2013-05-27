@@ -1,3 +1,6 @@
 Defining music, recreational programming and pure data.
 
 Exploring the gap between what we do as developers and the reasons we got started, it's not hard to realise that while we love what we do, we're not always doing what we love. How often do we simply sit down to code and see where we're going to end up? The answer to the gap between what we do and why we do it seems to be hacking. Outside the constraints of the working environment developers explore the technology available and indulge the programmers brain. This talk looks at the open source, real time, graphic, arts-based programming language, Pure Data, as a tool to make music that writes itself, synthesizers that play data and audible cellular automata.
+
+Usages:
+BACON 2013: http://devslovebacon.com/conferences/bacon-2013/talks/defining-music-recreational-programming-and-pure-data
