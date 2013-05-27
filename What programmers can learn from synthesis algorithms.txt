@@ -1,0 +1,3 @@
+Programmers will know that there are concepts, ideas and patterns which we use again and again. Some of which can be hidden away in a library and never thought of again. Others become our stock-in-trade as we start to build up a mental library of patterns we will need to produce in different ways again and again. 
+
+This talk explores some of the parallel patterns from the world of programming electronic music using the open source music programming platform, Pure Data. Taking synthesis as a starting point to discuss classic problems such as when to hide code away and how to how to refactor code for best performacnce.

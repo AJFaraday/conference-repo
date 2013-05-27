@@ -1,0 +1,5 @@
+There is a huge overlap between the people who want to write code and the people who want to create music. So it's no surprise that there's a considerable history of programmers using computers to make music, and musicians looking to code as a creative medium. The problem is that there's a knowledge gap where each discipline can be ignorant of the other and so many awesome ideas don't come to fruition because we can't find the right medium to create them in.
+
+In this talk Andrew Faraday explores the open-source, real-time music programming language, Pure Data, as a tool to bridge this gap from a programmers perspective. Looking at how to get started in digital audio and turning code into music.
+
+
