@@ -1,5 +1,5 @@
-Rails developer, radio presenter, geek, hobbyist musician and victim of a three year music degree. Andrew takes joy in hacking, playing and discovering just what sounds can be created from any source material he can get his hands on. He has been known to broadcast live feedback on the FM waveband and performing with Margret Thatcher's voice on a keyboard in a warehouse basement whilst covered in post-it notes. 
+Rails developer, radio presenter, geek, hobbyist musician and victim of a three year music degree. Andrew takes joy in hacking, playing and discovering what he chan achieve with technology. He has been known to broadcast live feedback on the FM waveband and perform with Margret Thatcher's voice on a keyboard in a warehouse basement whilst covered in post-it notes. 
 
-Andrew Faraday spent 5 years studying music, including the open-source, real-time music programming language, Pure Data. Using Pure Data kindled his interest in programming computers as a tool for making music and eventually his Ruby development career.
+Andrew has been developing with Ruby on Rails professionally for 4 years, but still can't resist coding out-of-hours for the sheer joy of creation.
 
-Andrew divides his time between Guildford and Manchester and spends his spare time enjoying technology, live coding and presenting Allfm's only panel show.
+Andrew divides his time between Guildford and Manchester and spends his spare time enjoying technology, coding and presenting Allfm's only panel show, The Marmite Files.
