@@ -1,0 +1,122 @@
+Bacon brainstorm
+
+Projects to mention:
+  Teabot
+  Network Ensemble
+  news more fun
+
+Themes:
+  why?
+    why code out of hours
+    code without financial gain
+  chasing up ideas
+    little idea in brain >> working code
+    alchemy - where there is nothing, make something
+    hacking/reconfiguring
+      teasmade 
+        - working with known mechanisms
+        - learning extra components
+        - change one purpose (killing) into another purpose (tea)
+#  data reflecting life  
+#    teabot rhythm data etc
+#    commit times and ticket activity (create and comment)
+#    - audible story of 'average' day in the office
+#    - patterns become clearer (probably)
+
+'chapter' headings:
+  Swords to Teapots:
+    - teasmade patent in 1902 by Frank Clark, gunsmith, of Birmingham. 
+      (pre computer geek)
+    - guns had components in a system
+      - trigger - human finger pulls lever
+      - ignition - iron strikes a flint, causes a spark
+      - fuel - powder ignites, heats up, expels heat
+      - payload - bullet is ejected at high speed
+      also
+      - cocking mechanism - barrel tips forwards to allow access 
+    - Teasmade has /almost/ the same components
+      - trigger - alarm clock hits appointed time (new component)
+      - ignition - iron strikes flint, lights lamp
+      - fuel - replace gun powder with oil (probably), burns more slowly, heats water
+      - payload - hot water is ejected (probably cocking mechanism, possibly by steam (check))
+    - Observing a system (the making of tea in a pot)
+    - using known components and their interaction in a known system (firearms)
+    - fill in the gaps (alarm clock triggering the process) 
+    - useful useful/fun/interesting thing
+    
+    - BACON--- mention automatic bacon grill
+  
+  teasmade to teabot:
+  - I observed a human process 
+    - tea made
+    - placed in one of two or three locations 
+    - wait
+    - notify via skype (or not)
+    - skype contains [beverage, location]
+    - (people ask if tea is available)
+  - I know how web apps work
+    - return data (often just pages) when appropriate request is received
+    - respond to inputs (most often from forms)
+    - automated processes take place (notification, data munging etc.)
+    - user input affects returned data
+  - Applied one to the other 
+    - web page displays data on amount and age of tea
+    - form inputs replaced by USB scale
+    - background process updates data from scale and detects fillups
+    - 5 minutes from fill-up, users are informed of a fresh brew
+  - Filled in the gaps
+    - scale (learn to use raw usb data inputs)
+    - fill up detection algorithm (detect events in a stream of numbers)
+  - made something useful/fun/interesting out of the combination of the two
+
+Is this what hacking is?
+  - discount security hacking, my aim is not to break into things. 
+  - software hacking... rebuild, repurpose 
+  - repurposing skills, as well as things. 
+  - take a little idea... turn it into thing 
+    - news more fun demonstration
+  - so... hacking by combining systems... can I apply this to something else? music?
+  - look at network ensemble 
+
+Laptop Choir:
+  - I know how to use some technologies as a programmer,
+  - can anyone guess how I'd combine these...
+    - CSV files - store data, in rows and columns (very exciting) 
+    - csv parser - reads the above file, understands it as data
+    - ruby - programming language, adaptable, used for web apps etc. - typically does everything ASAP when requested.
+    - tcp/udp ip connector - sends data from device A to device B
+    - pure data - audio/visual programming language, typically responds to inputs live, weak on sequencing. 
+  - I could make computers sing together in harmony. 
+  - what I like about it:
+    - I didn't invent anything new, but I made this happen.
+    - Using some of my old musical skills, arranging carols. 
+    - I really liked the sense of these electronic sounds combining in an acoustic environment
+  - Why do it? 
+    - No single part of this hasn't been done better
+      - sequence writer/editor
+      - playback of sequenced data
+      - software synthesizers - sounds, options, stability
+      - network connections for synths is a little unusual, but it's been done:
+        - MIDI, connectivity for synths.
+        - multi-channel audio for placing sound within a space
+        - choirs, bands, orchestras combine musical sounds in the air
+    - so why?!?
+      - learned some stuff (bad reason)
+      - surprised colleagues with it (secondary reason)
+      - I made it!
+      - The challenge!
+        - why climb a mountain? BECAUSE IT'S THERE
+        - why jump off a bridge? BECAUSE IT'S THERE
+        - why build a city in the middle of a desert? BECAUSE IT'S THERE
+        - why do we explore the depths of the sea, the poles. Why did we leave our caves in the first place? BECAUSE IT'S THERE
+        - humanity is a bit nutty like this. We don't like to see stones unturned.
+      - bring it back to the original question, why code out of hours?
+        - why repurpose technolgoy? 
+        - why explore the space we're working in? 
+        - why test the limits of what we're capable of? 
+          BECAUSE IT'S THERE
+
+
+
+
+
