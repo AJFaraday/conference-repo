@@ -3,3 +3,5 @@ Rails developer, radio presenter, geek, hobbyist musician and victim of a three 
 Andrew has been developing with Ruby on Rails professionally for 4 years, but still can't resist coding out-of-hours for the sheer joy of creation.
 
 Andrew divides his time between Guildford and Manchester and spends his spare time enjoying technology, coding and presenting Allfm's only panel show, The Marmite Files.
+
+
