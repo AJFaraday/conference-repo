@@ -2,6 +2,6 @@ Turning guns to teapots
 
 Like many developers, Andrew Faraday spends some of his spare time writing code. It takes up a lot of time and effort, it doesn't pay and often only a handful of people will ever use the resulting software. So why do it?
 
-In order to answer this question he looks at the story of Frank Clarke; a gunsmith and pre-computer geek. He turned the skills, technology and systems he knew around to an altogther different purpose, the morning cup of tea, and invented the teasmade. 
+In order to answer this question he looks at the story of Frank Clarke; a gunsmith and pre-computer geek. He took his skills, technology and systems he knew and applied them to an altogether different purpose, the morning cup of tea, and invented the teasmade. 
 
 This talk explores the thinking that might have been behind this re-purposing of technology, and how that applies to fun, extracurricular coding projects. Ultimately searching for reasons we feel compelled to explore ways of using technology outside of the working environment.  
