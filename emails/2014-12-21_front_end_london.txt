@@ -1,0 +1,41 @@
+This was a response to a CFP from Front End London, a meetup. 
+
+I felt that it was a good description of my speaking career to date, and may be useful in future.
+
+---------------------------------
+
+Front End London pesudo-proposal
+Andrew   12:45  
+To: fel@madebymany.co.uk
+
+From:	 Andrew (andrewfaraday@hotmail.co.uk)
+Sent:	 21 December 2014 12:45:00
+To:	fel@madebymany.co.uk (fel@madebymany.co.uk)
+Hi Andrew
+
+I've just seen your tweet regarding talks for Front End London. I have spoken at a number of events, typically on audio programming using Pure Data, and some of my hybrid projects which use Ruby for data handling and network messages to Pd which then handles audio generation.
+
+These projects include:
+
+Text to music (https://github.com/AJFaraday/Text-to-music), which includes audience participation via Twitter
+Scaled up (https://github.com/AJFaraday/scaled_up), Again, audience participation via Ruby on Rails and wifi.
+Network Ensemble (https://github.com/AJFaraday/NetworkEnsemble), which can sequence multiple laptops to play music in harmony via UDP
+
+Pure data is a real-time, graphic language, and supports live-code during some of my talks, allowing me to demonstrate programming and digital audio concepts whilst explaining them. 
+
+Some of the loose outlines I've used before (so could resurrect fairly easily) are:
+
+Demonstrating common digital audio concepts using Pd (this was to a group of Js devs, and overlaps a lot with the Web Audio API)
+"How to build a synth in under 10 minutes" - a quick look at audio coding and the fast path to a mouse-controlled synthesizer.
+Text-To-Music - A quick look at my TTM project and, in concept, how a simple algorithm can expand into a more complex result (which appears often in digital arts). This typically ends with a demonstration which sonifies tweets from the audience. 
+Scaled - up: A quick look at the workings of a db-based web app, with the added appeal of the audience spontaneously composing music using it.
+
+None of these are specifically front-end based (in fact the UI is often very basic and probably very ugly), but I know from experience that they're often of interest to people who work with tech.
+
+Let me know if you're interested and what you would like me to focus on.
+
+Regards
+
+Andrew Faraday
+
+P.S. Some (quite old) examples of my public speaking can be found at http://www.andrewfaraday.com/p/conferences-and-me.html
