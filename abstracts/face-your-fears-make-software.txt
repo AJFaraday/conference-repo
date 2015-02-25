@@ -1,0 +1,7 @@
+Face your fears - make awesome software
+
+Developing software is a learning process, and you never stop learning. With a wide-open field, which we can never completely learn, and a finite amount of time to learn it, we inevitably focus on a narrow field. As a result every techie harbours fears, sometimes quite common concepts, which we find impossible to tackle. As a result we can end up trying to solve problems in more complicated, slower, less efficient, but more familiar ways.
+
+How can we tackle these fears? Only by applying them to real software, which is difficult under time constraints when the learning curve is unknown. So I've found the only way to beat this is to write software you actually want to write.
+
+In this talk, Andrew Faraday explores this process of combining technology with music, facing the techie fears and becoming a better developer while making what you really want to make.
