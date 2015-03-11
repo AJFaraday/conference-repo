@@ -29,6 +29,7 @@ Fear, develpment and every day life
       * JS
       * Regex
     * Rails helps you avoid stuff, not always good
+    * How do you estimate things you don`t yet know how to do?
 * Projects outside of work
   * OSS Wednesday
   * Find something you want to make, and make it
