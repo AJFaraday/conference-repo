@@ -22,13 +22,18 @@ Fear, develpment and every day life
     * syntax error, unexpected end-of-input, expecting keyword_end
     * syntax error, unexpected keyword_end, expecting end-of-input
     * <false> is not true
-  * How do you estimate something you don`t know how to do?
-* 'safe' techniques
-  * scared of these
-    * SQL
-    * JS 
-    * Regex
-  * Rails helps you avoid stuff, not always good.
-* Deadlines and new techniques
+  * Comfort zone gets smaller, takes less time. Scary zone grows
+  * 'safe' techniques
+    * scared of these
+      * SQL
+      * JS
+      * Regex
+    * Rails helps you avoid stuff, not always good
+* Projects outside of work
   * OSS Wednesday
-
+  * Find something you want to make, and make it
+    * Music
+    * Art
+    * Game
+    * Robots
+* There`s no shame in being scared, but face your fears and develop!
