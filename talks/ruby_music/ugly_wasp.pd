@@ -1,4 +1,4 @@
-#N canvas 33 114 659 513 24;
+#N canvas 323 149 659 513 24;
 #X obj 254 28 netreceive 9000 1;
 #X obj 254 60 route pitch volume hit;
 #X obj 254 94 s pitch;

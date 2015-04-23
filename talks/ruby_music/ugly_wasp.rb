@@ -16,8 +16,7 @@ class UglyWasp
   end
 
   def hum(pitch, time)
-    volume = get_volume(volume)
-    dance("Humming note #{pitch.to_i} #{volume} for #{time}ms")
+    dance("Humming note #{pitch.to_i} for #{time}ms")
     dance("pitch #{pitch.to_i}")
     dance("hit #{time}")
   end
