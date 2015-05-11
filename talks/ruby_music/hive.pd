@@ -1,4 +1,4 @@
-#N canvas 188 287 758 435 24;
+#N canvas 184 289 758 435 24;
 #X obj 33 84 wasp 100;
 #X obj 34 124 wasp 150;
 #X obj 35 164 wasp 400;
