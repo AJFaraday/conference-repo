@@ -1,20 +1,42 @@
 Hi all
 
-My name is Andrew Faraday, a developer working in Surrey, and I've been given the opportunity to arrange and present an game of Just A Minute at this years Brighton Ruby conference. I'm looking for people to join the panel and play the game.
+My name is Andrew Faraday, a developer working in Surrey, and I've 
+been given the opportunity to arrange and present an game of Just 
+A Minute at this years Brighton Ruby conference. I'm looking for 
+people to join the panel and play the game.
 
-If you are not familiar with the game, it is a mainstay of the British panel game genre, having run on BBC radio for over 45 years. In this time it has gathered a huge following and prompted many variations and immitations in different contexts, including a one known as JAMming, which is popular amongst students in India.
+If you are not familiar with the game, it is a mainstay of the 
+British panel game genre, having run on BBC radio for over 45 years. 
+In this time it has gathered a huge following and prompted many 
+variations and immitations in different contexts, including a one 
+known as JAMming, which is popular amongst students in India.
 
-The game itself is simple, a panellist is given a topic, and attempts to speak about it for a minute without hesitation, repetition or deviation. The other panellists will have a buzzer, and can challenge if they detect one of these three rules being broken. If the challenge is correct, the challenger gains a point, and continues speaking on the topic. They can then, in turn, be challenged. If the challenge is incorrect, the speaker gains a point and continues. Whoever is speaking when the time has elapsed will gain a point.
+The game itself is simple, a panellist is given a topic, and attempts 
+to speak about it for a minute without hesitation, repetition or 
+deviation. The other panellists will have a buzzer, and can challenge 
+if they detect one of these three rules being broken. If the challenge 
+is correct, the challenger gains a point, and continues speaking on 
+the topic. They can then, in turn, be challenged. If the challenge is 
+incorrect, the speaker gains a point and continues. Whoever is speaking 
+when the time has elapsed will gain a point.
 
-This may sound a little daunting, but the rules really do work out very simple, the game itself acts as light relief and really can be a lot of fun to play.
+This may sound a little daunting, but the rules really do work out very 
+simple, the game itself acts as light relief and really can be a lot of 
+fun to play.
 
-Episodes broadcast recently can be found and heard at http://www.bbc.co.uk/programmes/b006s5dp/episodes/player 
+Episodes broadcast recently can be found and heard at 
+http://www.bbc.co.uk/programmes/b006s5dp/episodes/player 
 
-Ours will be on a range of topics which concern the programming community, and specifically the Ruby community, and will take place towards the end of the day.
+Ours will be on a range of topics which concern the programming community, 
+and specifically the Ruby community, and will take place towards the end 
+of the day.
 
-Ideally, our panel will be volunteers from amongst the speakers for Brighton Ruby.
+Ideally, our panel will be volunteers from amongst the speakers for 
+Brighton Ruby.
 
-If you are interested in taking part and joining the panel, please get in touch as soon as you can (I can be contacted at andrewfaraday@hotmail.co.uk).
+If you are interested in taking part and joining the panel, please get 
+in touch as soon as you can (I can be contacted at 
+andrewfaraday@hotmail.co.uk).
 
 Thanks!
 
