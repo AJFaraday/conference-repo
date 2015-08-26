@@ -5,3 +5,11 @@ Like many developers, Andrew Faraday spends some of his spare time writing code.
 In order to answer this question he looks at the story of Frank Clarke; a gunsmith and pre-computer geek. He took his skills, technology and systems he knew and applied them to an altogether different purpose, the morning cup of tea, and invented the teasmade. 
 
 This talk explores the thinking that might have been behind this re-purposing of technology, and how that applies to fun, extracurricular coding projects. Ultimately searching for reasons we feel compelled to explore ways of using technology outside of the working environment.  
+
+---------------
+
+After some suggestions from the Ruby Conf selection panel (21st Aug 2015)
+
+In this talk I look at how a little known gunsmith took the skills, technology and systems of firearm production and applied them to a very different field, a cup of tea.
+
+The talk is an exploration of the compulsion many programmers feel the need to play with technology. Using examples from such fields as firearms and organ donation I I will show how we can all apply the knowledge and skills we know to new fields to develop our selves and our professional skills.
