@@ -1,0 +1,13 @@
+Session Title:
+Just A Ruby Minute
+
+Target Audience:
+Intelligent people who enjoy popular speakers playing with the words and ideas around code.
+
+Abstract:
+Just A Minute is a classic of the British comedy panel game genre. In the game, our panel is challenged to speak about a variety of ruby related topics for a minute without hesitation, repetition or deviation. Watch some of your favorite rubyists run this linguistic gauntlet as they play, compete and enjoy this hilarious game of wits.
+
+Notes for Organisers:
+
+This proposal is for a panel game, not a talk. It's proven successful at a number of development conferences already, but does require a little more organization than most talks. I need a panel of 3 or 4 people (usually drawn from the speakers for the conference), sound support for all of us to be heard, and a couple of tables to sit behind.
+I can provide buzzers and software to make sure the game goes smoothly.

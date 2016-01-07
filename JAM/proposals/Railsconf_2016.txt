@@ -1,0 +1,33 @@
+
+Title
+Just A Minute, On The Rails
+Abstract
+
+We're bringing Just a Minute -- the popular classic British gameshow format -- to RailsConf! The rules of the game are simple, the results are hilarious, and who knows, you might even learn something new! Come join us to see some of your favorite developers be utterly silly... for a minute at a time, at least.
+Details
+
+The game of Just A Minute works like this; panelists are given rails-related topics such as "Action Cable", "Learning to Code" or "Digital Natives". The challenge is then to speak about the topic for 60 seconds without hesitation, repetition or deviation. The other panelists listen and can challenge by pressing a buzzer if they hear one of these rules being broken. If their challenge is correct, they continue on the topic with the same timer and may in turn be challenged. Points are awarded for correct challenges, and for being the current speaker at the end of the round.
+
+The appeal of Just A Minute, particularly at technology conferences, is very broad. The contents of rounds often involve a basic explanation of the topic, which may introduce newer programmers to a broader range of related subjects. The format is very open to the audience 'playing along', listening for challenges which could be made. The game also allows the panelists to have some fun, audiences enjoy seeing a more playful side of conference speakers. People, both off-stage and on, laugh a lot at Just A Minute shows.
+
+Technically, a game of Just A Minute requires:
+
+    3 or 4 panelists, these are usually people who are already speaking at the conference.
+    The usual audio-visual support for the hosts laptop.
+    A couple of tables for the panelists to sit behind.
+    Audio support for 4 panelists and the host to be heard.
+    (I provide buzzers, and my own software to read them)
+
+Note: This is not a talk, it's a panel game. I am unsure whether this should be proposed as a talk, through apps such as this, or by direct contact. I would be interested to hear your thoughts about how best to propose fun events for conferences.
+Pitch
+
+Just A Minute for tech conferences has a proven track-record. So far I have presented the game at three events, and it was very well received at each of them. Both with British people (most of whom have heard the show on BBC radio) and people from other nations who are typically experiencing the game for the first time.
+
+Panelists enjoy themselves a lot with Just A Minute. Participating in a game show at a conference provides them with an opportunity to approach their field in a very different way, and have some fun while they do.
+
+My relevant experience includes some speaking at tech conferences, mostly on subjects related to music and software.
+
+I have 5 years experience of broadcasting on community radio, including 4 when I was presenting a different panel game format on the air. This means I am well practiced in the practicalities of organising a panel, introducing them to a game format and keeping the game flowing once it is in progress.
+
+As mentioned above, I have presented this game at 3 separate events so far. So my experience now includes interacting with the conference staff and stage management to get the stage set-up, and presenting the show for a live audience (so far, up to 800 people at a time).
+

@@ -1,9 +1,9 @@
 Hi all
 
-My name is Andrew Faraday, a developer working in Surrey, and I've 
-been given the opportunity to arrange and present a game of Just 
-A Minute at this years Brighton Ruby conference. I'm looking for 
-people to join the panel and play the game.
+My name is Andrew Faraday, a developer working in Surrey, England 
+and I've been given the opportunity to arrange and present a game 
+of the classic panel game, Just A Minute at this years RubyConf. 
+I'm looking for people to join the panel and play the game.
 
 If you are not familiar with the game, it is a mainstay of the 
 British panel game genre, having run on BBC radio for over 45 years. 
@@ -22,17 +22,16 @@ when the time has elapsed will gain a point.
 
 This may sound a little daunting, but the rules really do work out very 
 simply. The game is very entertaining to listen to and can be a lot of 
-fun to play.
+fun to play, conference audiences love it!
 
-Episodes broadcast recently can be found and heard at 
+There is currently one episode available to listen to at
 http://www.bbc.co.uk/programmes/b006s5dp/episodes/player 
 
-Ours will be on a range of topics which concern the programming community, 
-and specifically the Ruby community, and will take place towards the end 
-of the day.
+Ours will be on a range of general and technical topics which are
+interesting to the Ruby community.
 
 Ideally, our panel will be volunteers from amongst the speakers for 
-Brighton Ruby.
+RubyConf.
 
 If you are interested in taking part and joining the panel, please get 
 in touch as soon as you can (I can be contacted at 
