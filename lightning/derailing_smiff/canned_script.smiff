@@ -1,0 +1,47 @@
+set speed to 70 bpm;
+
+
+set synth to anne;
+set note length to 1;
+set anne volume to 70;
+set anne am_waveshape to sine;
+play A4, B4, C5, D5, E5, C5, E5, E5 from step 1;
+play Eb5, B4, Eb5, Eb5 from step 9;
+play D5, Bb4, D5, D5 from step 13;
+play A4, B4, C5, D5, E5, C5, E5, G5, E5, C5, A4, C5, G5, G5, G5, G5 from step 17;
+
+
+set synth to brian;
+set note length to 1;
+set brian bandwidth to 10;
+set brian volume to 40;
+play A3, E4, A3, E4, A3, EB4, A3, D4 from step 1 skipping 1;
+play A3, E4, A3, E4, A3, E4, A3, E4 from step 17 skipping 1;
+
+set synth to trevor;
+play A4, E5, A4, E5, A4, EB5, A4, D5 from step 1 skipping 1;
+play A4, E5, A4, E5, A4, E5, A4, E5 from step 17 skipping 1;
+
+
+set synth to sarah;
+set note length to 2;
+play E6 on step 7;
+play Eb6 on step 11;
+play D6 on step 15;
+
+set synth to trevor;
+set note length to 1;
+play E5, C5, A4, C5, G5,G5,G5 from step 25;
+
+play kick on steps 1 to 25 skipping 3;
+play kick on steps 2 to 25 skipping 3;
+play snare on steps 3 to 25 skipping 3;
+play hihat on steps 2 to 25 skipping 1;
+play crash on steps 7 to 16 skipping 3;
+play crash on steps 25 to 29 skipping 1; 
+play snare on steps 25 to 29 skipping 1; 
+play snare on steps 29 to 32; 
+play kick on steps 26 to 32 skipping 1; 
+play tom1 on step 30;
+play tom2 on step 31;
+play tom3 on step 32;
