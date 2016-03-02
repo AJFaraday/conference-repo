@@ -32,5 +32,13 @@ describe Limerick do
 
   end
 
+  context 'line 5' do
+
+    it 'should carry the punchline' do
+      @limerick.lines(5).should be_funny
+    end
+
+  end
+
 end
 

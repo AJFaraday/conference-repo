@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/ajfaraday/supreme-barnacle.git
+  revision: 5f8730af9a5f032358163b37f5b626c49dd4998f
+  specs:
+    supreme-barnacle (0.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -162,6 +168,7 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   spring
   sqlite3
+  supreme-barnacle (= 0.0.2)!
   turbolinks
   uber (= 0.0.13)
   uglifier (>= 1.3.0)
