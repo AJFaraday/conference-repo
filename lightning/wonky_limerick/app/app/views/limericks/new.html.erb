@@ -1,0 +1,34 @@
+<%= form_for @limerick_form do |form| %>
+  <dl>
+    <dt>Title</dt>
+    <dd>
+      <%= form.text_field(
+            :title,
+            'required' => ''
+          ) %>
+    </dd>
+
+    <dt>Poem</dt>
+    <dd>
+      <%= form.text_field(
+            :title,
+            'required' => '',
+            'minLength' => 130
+          ) %>
+    </dd>
+
+    <dt>Author</dt>
+    <dd>
+      <%= form.select(
+            :author_id,
+            options_for_select(
+              [
+                'Andrew Faraday',
+                'Edgar Alan Poe'
+              ]
+            )
+          ) %>
+    </dd>
+
+  </dl>
+<% end %>
