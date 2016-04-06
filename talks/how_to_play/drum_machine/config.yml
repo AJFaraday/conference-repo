@@ -15,7 +15,7 @@ sequences:
     steps:
       - 0
       - 8
-      - 11
+      - 11  
     column: 0
   - sound: 'crack'
     steps:

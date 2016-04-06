@@ -1,0 +1,195 @@
+How to play at being a developer:
+ 
+Start the day with a hot, brown beverage. It doesn't really matter if you drink it.
+When people ask how you're weekend was, say it was fine, regardless.
+Smile and nod at your project manager as they inflate your todo list.
+If your company practises SCRUM, stand to smile and nod at your project manager as they inflate your todo list.
+Sit at your computer and adopt the classic "thinker" pose. (Most development shops have a fairly relaxed dress code, but you may wish to wear a little more than he does.)
+Periodically, make choose one of these sounds to make; oooohhh, WHAT, eh!
+About twice a day, ask your direct superior a vague question about graph theory, SQL, quantum physics, whatever they know about.
+Come up with a cute Twitter handle
+Use it to make some jokes about code, Internet protocols.
+Head home slightly later than your project manager
+You can probably get away with this for about two weeks...
+Then you'll just have to write some code.
+That's the hard part.
+
+A side-note about impostor syndrome.
+
+The feeling that you perhaps haven't earned the position you're in.
+Common in intellectual industries, especially those where a lot of people are self-taught.
+Even though they must have done something to achieve their current position.
+
+Nobody is employed to be an imposter.
+
+Unless you have the working practise above, you're not an impostor.
+
+----------
+
+Brief introduction to me:
+
+* Music graduate
+* largely (not entirely) self taught coder
+* I'm not qualified to talk about psychology, child development or education.
+
+This talk is about play.
+It's largely drawn from my own experience, but I believe it touches on a lot of shared experience.
+I hope to offer a perspective on how we think as developers, how we learn and how we think about how we learn.
+
+----------
+ 
+Learning to code is hard!
+
+Code tutorials look like:
+(owl drawing picture)
+
+Early attempts at coding can look like:
+(my own picture of an owl)
+
+People who code for a living have been through a painful learning process.
+
+* Finding information, then losing it.
+* Learning things, then not finding a use for them.
+* Knowing the basics pretty well, not knowing how to improve.
+* When you're starting it's hard to know what's important.
+
+We learn through a process of getting it wrong, finding out what the consequences are, and gradual improvment.
+To go through that process, we need motivation to press forward, find problems, and solve them.
+
+Thinking about this got me thinking about play.
+
+---------
+
+Children know how to play, to explore, to get lost. They're very good at it.
+
+I've started revisiting some things from my youth, computer games, drumming, my first code.
+
+I'm exploring the same things, but it's different.
+
+My mind wants to do the best I can, not to miss any parts, to map it out.
+I explore like a cartographer, not like a child.
+
+So which one is right?
+ 
+I had to start learning like a child, because I had some of the limitations of a child.
+
+* I was rapidly introduced to a variety of new subjects.
+* There is many "right" approaches, lots of differece of opinion, so no one thing to learn.
+* Some things turn out important, others you may never use, and you can't learn everything.
+
+Memorising things that don't have a meaning to you (API, times tables, scales) is difficult, and might be unhelpful.
+
+I learned scales when I was learning to improvise.
+I learn APIs when I want to use them for something that's not simple with the UI.
+
+(text to music)
+
+This may seem like a frivolous project, but I learned a great deal while making it happen.
+
+It made me want to do thigs with code I wouldn't have thought to do.
+(twitter authentication was a real pain)
+The most useful thing it's for is to have some fun at conferences and meetups.
+
+This is innovation, it's also improvement, and a necessity.
+
+Repetitive actions will do a lot of jobs well, developers have to develop.
+
+Okay, that's one kind of play. Playing with ideas, "exploring the space".
+
+-----------
+
+I'm going to need a volunteer for th next part...
+(get them set up on the command line worm game)
+
+Another common definition is playing games. 
+
+A working definition of "game"
+ 
+Rules:
+
+Are rules a bad thing?
+Having rules changes the nature of things.
+They can stop bad things from happening.
+
+- when you apply rules to kicking a ball, you get a sport
+- When you apply rules to sound, it becomes music
+- When you apply rules to electricity... The whole modern world
+ 
+Interaction
+- John Conways Game of Life not a game
+- Usually fairly strictly defined interaction (your presence in that world is locked down, expected by the creators)
+ 
+There has to be a goal, 
+- something you would achieve
+- It needs to be clear what this is
+ 
+There has to be a failure condition, 
+- a game with only winning is very easy to create
+- And very dull
+- There's no sense of achievement
+
+So... is TDD a game?
+is a hack day a game?
+  
+If we use this definition of "game" we can make an assertion about what happens when we play them.
+
+When we play (in the "games" sense), we play in the other sense, we play with the game.
+
+We look for ways to succeed more, and fail less.
+
+-----------
+
+Lets talk about learning:
+ 
+Here's a fact:
+
+J. S. Bach had 20 children
+Tell the story of how I learned that
+ 
+The human mind is very good at holding information which is not important.
+ 
+COMPLETELY UNSCIENTIFIC THEORY/SUPPOSITION
+When we remember something, we are remembering the last time we remembered it.
+Any information that occupies an idling mind, will find a home there. 
+
+When we play games, we explore the space within the rules (or just outside the rules).
+
+This doesn't stop when we stop interacting with the game. 
+
+In other words, when we play, the thing we are playing with occupies our idling mind, and finds a home there.
+
+----------
+
+gamification
+
+* habitica
+
+----------
+
+TODO playing nice
+
+Community, giving people the helping hand you had.
+
+(playing nice: https://github.com/samaaron/sonic-pi/issues/965 - Stewart Alcocks son @stewartadcock)
+
+About the issue: https://twitter.com/stewartadcock/status/696774652409077762
+
+fatehr-son pair programming (burp): https://twitter.com/stewartadcock/status/696786147100528640
+
+
+When people don't play nice, others feel less 
+ 
+----------
+  
+The problem with play
+ 
+Play is good, we all understand play, at least a little. (It's sad that we sometimes forget about play)
+I couldn't do what I do if I didn't learn by playing.
+ 
+Play doesn't (usually) earn money. Bills must be paid, people prefer eating to not eating.
+Play is limited, when it stops being what you want to do, you stop learning. There comes a point when you no longer push yourself.
+BUT, doing things you don't want to do makes you better at what you want to do.
+ 
+Learning by work
+Work helps us learn to play
+ 
