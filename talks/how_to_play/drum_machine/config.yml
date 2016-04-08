@@ -8,7 +8,7 @@
 #
 column_width: 8
 pattern_length: 16
-bpm: 100
+bpm: 80
 
 sequences:
   - sound: 'boom'
