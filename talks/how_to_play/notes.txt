@@ -9,6 +9,7 @@ Checklist:
 * Controller plugged in
 * Game works
 * handouts 
+* slides
 
 
 ---------------------
