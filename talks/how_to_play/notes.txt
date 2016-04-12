@@ -1,7 +1,21 @@
+Checklist:
+
+* drum machine script ready to go 
+* Smiff is open, makes sound
+* Smiff message log in small, screen top window
+* Users can see SMIFF
+* Pd open with TTM patch
+* TTM makes sound
+* Controller plugged in
+* Game works
+* handouts 
+
+
+---------------------
+
 How to play at being a developer:
  
 Start the day with a hot, brown beverage. It doesn't really matter if you drink it.
-When people ask how you're weekend was, say it was fine, regardless.
 Smile and nod at your project manager as they inflate your todo list.
 If your company practises SCRUM, stand to smile and nod at your project manager as they inflate your todo list.
 Sit at your computer and adopt the classic "thinker" pose. (Most development shops have a fairly relaxed dress code, but you may wish to wear a little more than he does.)
@@ -66,11 +80,14 @@ Any time people make music it's called playing. But that's not play in the sense
 
 When you first "have a go" at a musical instrument, you're playing. 
 
-When you practise, reading from a sheet, playing routines (scales, arpeggios etc), you're not playing, just going through a process.
+When you practise, reading from a sheet, playing routines (scales, arpeggios etc), you're not playing, 
+just going through a process.
 
 When you improvise, not sure exactly what sounds other people will be making, that's play.
 
 Explore, respond, interact.
+
+Repetitive actions will do a lot of jobs well, developers have to develop.
 
 ----------
 
@@ -82,7 +99,7 @@ I'm exploring the same things, but it's different.
 
 My mind wants to do the best I can, not to miss any parts, to map it out.
 I explore like a cartographer, not like a child.
- 
+
 I had to start learning like a child, because I had some of the limitations of a child.
 
 * I was rapidly introduced to a variety of new subjects.
@@ -98,6 +115,8 @@ thequickbrownfxjmpsvrlzydg
 Times tables, by rote
 (pocket calculator)
 
+(side note, nine times table)
+
 I learned scales when I was learning to improvise.
 I learn APIs when I want to use them for something that's not simple with the UI.
 
@@ -110,8 +129,6 @@ It made me want to do thigs with code I wouldn't have thought to do.
 The most useful thing it's for is to have some fun at conferences and meetups.
 
 This is innovation, it's also improvement, and a necessity.
-
-Repetitive actions will do a lot of jobs well, developers have to develop.
 
 Okay, that's one kind of play. Playing with ideas, "exploring the space".
 
@@ -129,8 +146,8 @@ A working definition of "game"
 Rules:
 
 Are rules a bad thing?
-Having rules changes the nature of things.
 They can stop bad things from happening.
+Having rules changes the nature of things.
 
 - when you apply rules to kicking a ball, you get a sport
 - When you apply rules to sound, it becomes music
@@ -216,3 +233,8 @@ Work helps us learn to play
 
 --------------
 
+SMIFF
+
+Short demo
+
+(May have to kill jackd)
