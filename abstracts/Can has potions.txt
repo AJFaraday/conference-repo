@@ -51,6 +51,8 @@ Outline
   points etc.)
 - A bit of RPG history - focus on limited resources (e.g. RPGs on paper, 
   cartridge-based games with small memory)
+- idea: human-optimised data vs computer optimised data (character sheet
+  with pictures, thematic link etc vs foreign key, indexes etc)
 - Anatomy of a potion
 - - define the item, attributes, what it does. 
 - - Define two effects, as two rows, sharing primary key, name etc. (1st Normalized form, has repetition)
