@@ -1,0 +1,21 @@
+Can has potions?, or 'how role playing games might structure their databases'
+
+I have a theory that many young people's first experience of viewing, 
+interpreting and interacting with large data sets is rarely for a 
+practical purpose. Children are unlikely to dabble in accounting systems,
+manage large photo libraries or music collections. Many youngsters will
+first handle a data set while managing a collection of items, skills
+or characters.
+
+The basic, re-usable ideas of the Role Playing Game are surprisingly
+ubixuitous, making set of shared concepts many will learn without realising
+it.
+
+As programmers we often write software to deal with increasingly large 
+datasets, yet with better technology, we can neglect performance issues
+and choose performance fixes over an optimised design.
+
+In this talk, I'll take you through the principals of database normalisation
+and optimisation and how they could be used to implement common RPG concepts.
+We'll learn how to make limited resources stretch to a lightning fast RPG.
+
