@@ -11,11 +11,50 @@ The basic, re-usable ideas of the Role Playing Game are surprisingly
 ubixuitous, making set of shared concepts many will learn without realising
 it.
 
-As programmers we often write software to deal with increasingly large 
+As programmers we often write software to deal with increasingly large
 datasets, yet with better technology, we can neglect performance issues
 and choose performance fixes over an optimised design.
 
 In this talk, I'll take you through the principals of database normalisation
 and optimisation and how they could be used to implement common RPG concepts.
 We'll learn how to make limited resources stretch to a lightning fast RPG.
+
+-------------------------
+
+Outline
+
+- Introduction to games, shared concepts (potion, skills, hit points/ability 
+  points etc.)
+- A bit of RPG history - focus on limited resources (e.g. RPGs on paper, 
+  cartridge-based games with small memory)
+- Anatomy of a potion
+- - define the item, attributes, what it does. 
+- - Define two effects, as two rows, sharing primary key, name etc. (1st Normalized form, has repetition)
+- - Define effects as rows in a separate table, use foreign key. SQL to join, remove repetition. Less space taken
+- Why do we do this?
+- - An example involving a table holding tile images, then a map table.
+- - The tiles contain more data, but each one is only defined once.
+- Databases abhor nils
+- - Side-track to an address-book application, why? Because they always have a fax number.
+- - Less than one percent of contacts will have a fax number.
+- - Databases will still reserve the space for that information (metaphor, a space on a paper form)
+- - What does, say, 10,000 nil values look like (I'll probably use XML to show this)
+- - Here's where we might use a separate table of fax numbers, to eliminate the nil values. 
+- - Note that games are usually more predictable than this, every entity will have the same attributes.
+- How about the third normalised form? (many to many)
+- - A type of character has N equipment slots
+- - A type of equipment will go in 1 equipment slot
+- - A 'join table' will join character, slot and eqipment
+- - Shield, for instance, can be used many times without repeating data
+- How about an optimisation?
+- - Show performance of reading data as individual rows, then as a large joined set. Marked improvement.
+- - How about inserts? This will take longer, and games benefit from performance.
+- - My best advice here is to hold the data you can in memory, instead of writing it. The best database optimisation is to do the most you can without the database.
+- - The idea is balance, hold only the data you need now or will reuse in memory, grab changing data from database.
+
+
+
+
+
+
 
