@@ -1,5 +1,7 @@
 Can has potions?, or 'how role playing games might structure their databases'
 
+Abstract - draft one
+
 I have a theory that many young people's first experience of viewing, 
 interpreting and interacting with large data sets is rarely for a 
 practical purpose. Children are unlikely to dabble in accounting systems,
@@ -18,6 +20,28 @@ and choose performance fixes over an optimised design.
 In this talk, I'll take you through the principals of database normalisation
 and optimisation and how they could be used to implement common RPG concepts.
 We'll learn how to make limited resources stretch to a lightning fast RPG.
+
+-------------------------
+
+Abstract - draft two (coherency)
+
+I have a theory that most people will not have their first experience of
+interpreting and interacting with a large set of data for a practical 
+purpose. Children probably won't dabble in accountancy, or archiving photos,
+or maaging a music library. Young people, however, play games. Role Playing
+Games, in particular, teach us to handle collections of items, characters 
+and abilities. Often without us realising we're learning these skills.
+
+As grown-up programmers we often write software to manage data sets for
+business, to serve practical purposes, but we face the same challenges
+the developers of those RPGs faced in storing data efficiently, to work
+within the limitations of the technology used. Whether it's an oracle
+server, a Game-Boy cartridge, or a pen and some paper.
+
+In this talk I'll explore how these RPG datasets can teach use about
+efficient data storage, database normalisation and system optimisations,
+using what I know about running web applications efficiently to un-pick
+how the makers of Role Play Games might keep the action flowing.
 
 -------------------------
 
