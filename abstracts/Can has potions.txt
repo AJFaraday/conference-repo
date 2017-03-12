@@ -28,20 +28,36 @@ Abstract - draft two (coherency)
 I have a theory that most people will not have their first experience of
 interpreting and interacting with a large set of data for a practical 
 purpose. Children probably won't dabble in accountancy, or archiving photos,
-or maaging a music library. Young people, however, play games. Role Playing
+or managing a music library. Young people, however, play games. Role Playing
 Games, in particular, teach us to handle collections of items, characters 
 and abilities. Often without us realising we're learning these skills.
 
-As grown-up programmers we often write software to manage data sets for
+As grown-up programmers we write software to manage data sets for
 business, to serve practical purposes, but we face the same challenges
-the developers of those RPGs faced in storing data efficiently, to work
+the developers of those RPGs face in storing data efficiently, to work
 within the limitations of the technology used. Whether it's an oracle
 server, a Game-Boy cartridge, or a pen and some paper.
 
 In this talk I'll explore how these RPG datasets can teach use about
 efficient data storage, database normalisation and system optimisations,
-using what I know about running web applications efficiently to un-pick
-how the makers of Role Play Games might keep the action flowing.
+using what I know about running web applications efficiently to reverse
+engineer how the makers of Role Play Games might keep the action flowing.
+
+-------------------------
+
+Abstract - cut to 600 characters
+
+Most people won't learn, as children, to handle a large data set for business, 
+but while playing games. Role Playing Games, in particular, teach us to handle 
+large data sets, often without us realising.
+
+As grown-up programmers we write software to manage data sets for business, 
+but we face the same challenges the developers RPGs face, storing and using 
+data efficiently with the tools they work with. Whether it's an Oracle server, 
+Game Boy or a pencil and paper.
+
+I'll explore what RPG data sets teach us about efficient data storage and 
+optimization, and how to make our apps faster.
 
 -------------------------
 
@@ -51,6 +67,11 @@ Outline
   points etc.)
 - A bit of RPG history - focus on limited resources (e.g. RPGs on paper, 
   cartridge-based games with small memory)
+- Introducing an idea: Different tools have to solve the same problems
+- - A game leader (or Dungeon Master), has to find inforomation in a book, remember current info, use dice to make a random choice, follow logic rules to decide what to do
+- - A computer game has to find information in a database, remember current information, use random number generator to make choices, and follow logic rules to decide what to do.
+- - Information in books is optimised for human consumption, and the limitations of a human being.
+- - Information in a database is optimised for computer consumption, and those limitations.
 - Anatomy of a potion
 - - define the item, attributes, what it does. 
 - - Define two effects, as two rows, sharing primary key, name etc. (1st Normalized form, has repetition)
