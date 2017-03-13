@@ -1,15 +1,15 @@
 Re-engineering the RPG
 
-The essence of software development is to observe the 
-problems presented by a specific domain, understand them, 
-and then find ways to solve these problems using the tools
-we work with.
-
 Since the 1970s, role-playing games have been designed
-to do precisely that. Without computers to crunch
-the numbers, systems were built to help players to 
-understand and recreate fantasy worlds and the 
-interactions within them.
+and built to allow players to recreate fantasy worlds. 
+Logical and mathematical systems had to be developed to
+understand these worlds along with the characters, objects
+and interactions within them.
+
+The essence of software development is to do just that;
+observe the problems presented by a specific domain, 
+understand them, and then find ways to solve these 
+problems using the tools we work with.
 
 In this talk, by recreating and solving common problems
 presented in the design of role-playing games, you'll learn 
