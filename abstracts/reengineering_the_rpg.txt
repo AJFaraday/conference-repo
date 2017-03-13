@@ -5,13 +5,14 @@ problems presented by a specific domain, understand them,
 and then find ways to solve these problems using the tools
 we work with.
 
-Since the 1970's, role playing games have been designed
-to do precisely that. Even without computers to crunch
-the numbers they built systems to understand and recreate
-fantasy worlds and the interactions within them.
+Since the 1970s, role-playing games have been designed
+to do precisely that. Without computers to crunch
+the numbers, systems were built to help players to 
+understand and recreate fantasy worlds and the 
+interactions within them.
 
-In this talk, you'll learn about some common patterns and
-problems in web application development and architecture 
-by re-creating and solving common problems presented 
-by the Role Playing Game. Including database normalisation, 
-finding perforamnce bottlenecks and data optimisation.
+In this talk, by recreating and solving common problems
+presented in the design of role-playing games, you'll learn 
+about some common patterns and problems in web application 
+development and architecture. These include database normalisation, 
+finding performance bottlenecks, and data optimisation.
