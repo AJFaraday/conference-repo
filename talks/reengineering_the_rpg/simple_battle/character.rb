@@ -29,12 +29,6 @@ class Character
     end
   end
 
-  def take_damage(damage)
-    @hit_points -= damage
-    puts "  -#{damage} hit points"
-    puts "  #{name} has been defeated" if dead?
-  end
-
   def dead?
     @hit_points <= 0
   end
@@ -43,6 +37,12 @@ class Character
 
   def roll(chance)
     rand(100) < chance
+  end
+
+  def take_damage(damage)
+    @hit_points -= damage
+    puts "  -#{damage} hit points"
+    puts "  #{name} has been defeated" if dead?
   end
 
 end
