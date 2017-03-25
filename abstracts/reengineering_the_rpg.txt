@@ -1,3 +1,14 @@
+Elevator pitch (287 characters)
+------------------------
+
+Role-Playing Games use familiar logical and mathematical patterns to recreate a game world. These have been implemented with many tools including PCs, hand-held consoles, and pen and paper.
+
+In this talk you'll learn about common development patterns by recreating some of these systems.
+
+------------------------
+Long abstract (778 chars)
+-----------------------
+
 Re-engineering the RPG
 
 Since the 1970s, role-playing games have been designed
@@ -16,3 +27,14 @@ presented in the design of role-playing games, you'll learn
 about some common patterns and problems in web application 
 development and architecture. These include database normalisation, 
 finding performance bottlenecks, and data optimisation.
+
+
+----------------------
+Notes - 761 chars
+Described by papercall as:
+Notes will only be seen by reviewers during the CFP process. This is where you should explain things such as technical requirements, why you're the best person to speak on this subject, etc...
+----------------------
+
+The talk will be a fairly entry-level introduction to the thought process behind reducing a problem domain to a codable solution. It covers some common issues faced by most software developers at some point in their career. Including how to structure data in a database, find performance bottle necks and design software to do the heavy lifting once. It draws on 7 years of enterprise software development, integrating with large legacy databases. Many people who work with technology will also take an interest in games, and how the systems behind them work. I'm hoping to tap into this shared interest to help engage an audience with these ideas and help them to write more efficient software in future.
+
+Standard technical requirements, vision from a laptop.
