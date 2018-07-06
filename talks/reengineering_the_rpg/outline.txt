@@ -1,0 +1,38 @@
+Reengineering the RPG
+
+How to quantify a person
+- Some facts about me
+- my ability?
+- how many times do you have to hit me with a sword?
+- too big to fully understand 
+- assess what kind of information is required
+
+idea 1: to reproduce something in software observe the aspects of it
+which are important for the operation of that software
+
+social media: 
+a name (or nickname)
+image
+profile
+email (password confirmation)
+
+spammers
+email
+phone
+tags
+
+Role Playing Game:
+hit points
+ability points
+equipment
+
+Simple case
+5 hit points
+2 damage
+3/4 chance to hit
+1/2 chance to block (half damage)
+(implemented in simple_battle/)
+
+
+
+
