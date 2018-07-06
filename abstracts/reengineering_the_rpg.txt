@@ -38,3 +38,18 @@ Notes will only be seen by reviewers during the CFP process. This is where you s
 The talk will be a fairly entry-level introduction to the thought process behind reducing a problem domain to a codable solution. It covers some common issues faced by most software developers at some point in their career. Including how to structure data in a database, find performance bottle necks and design software to do the heavy lifting once. It draws on 7 years of enterprise software development, integrating with large legacy databases. Many people who work with technology will also take an interest in games, and how the systems behind them work. I'm hoping to tap into this shared interest to help engage an audience with these ideas and help them to write more efficient software in future.
 
 Standard technical requirements, vision from a laptop.
+
+------------------------------
+From 'Strange Loop' field "What will the attendee learn?
+
+The narrative of this talk consists of three threads. Firstly the process of taking software from a concept to a working system, dividing the problem into actionable parts and encapsulating those as distinct, manageable packages of code. This will mainly centre round the idea of characters from role playing games, which simplify the problem of quantifying, and recreating a living person. The games decide what aspects of that person are important, and what information they need about the individual to enact their process.
+
+Another strand will be common Object Orientated patterns, I'll be expressing some of the common actions of a desk-top or computer-based role playing game in a system which demonstrates (to date) commands, mixins and factories. (The code this is based on is currently in progress, there may be more as this project continues)
+
+The third thread, and the original idea for this talk, is performance. Role-playing games have undergone many iterations with many systems, from a system comprised of human, dice and manuals to computer systems such as the Game Boy to more modern gaming consoles. This means that they are full of examples of where a system has been optimised to work efficiently with the tools it's comprised of. I'll encourage programmers to think of the main strengths and weaknesses of their own tools, and use that as a starting point for optimisation. I'm mainly focusing on the reliance of web applications on databases, I'll look into how to build code which handles this relationship more efficiently. With some real world examples of fetching and interpreting data on a physical medium (paper).
+
+
+Bio (strange loop)
+-------------------
+
+Ruby on Rails developer, radio presenter, musician and technology enthusiast. Nearly seven years of writing software against large legacy databases and keeping large corporations happy has given me some detailed perspective on converting requirements into software and keeping the code running smoothly. I’m always keen to share my experience and curiosity about what can be achieved with technology.
