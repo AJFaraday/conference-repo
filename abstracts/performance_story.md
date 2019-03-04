@@ -32,8 +32,19 @@ When a feature features on a feature list, but doesn't feature in the applicatio
 When it's fully functional, but nobody uses it.
 When it's so slow that nobody uses it a second time?
 
-A few years ago, I worked on a feature which met all three of these definitions. It involes numerous
-layers of templating, saving and modifying hundreds of rows and a huge amount of database activity.
+One of my first tasks as a professional programmer was to build a chemical inventory system.
+It had to keep track of the contents, context and properties of, sometimes, hundreds of chemical samples
+being stored together on a 'plate'. The most complex part of this system is plate transfers, removing
+part of the samples in one or more plates to produce new containers.
+
+Plate transfers involve retrieving hundreds of rows of data, running calculations over it, and combining it 
+with template rows for both the new plate and the transfer itself. For this reason they ran so slowly that
+it was an intolerable feature to use, and so it wasn't used. Nevertheless, it met requirements and was part
+of the app. In time, it was subject to enhancement requests, and performed even more slowly. 
+
+A year ago, I was tasked with improving the performance of this feature, and in the process 
+
+
 
 ---
 
