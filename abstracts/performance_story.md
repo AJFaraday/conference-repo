@@ -26,7 +26,14 @@ modifying, and presenting hundreds to thousands of rows of data in lighting-quic
 
 # When is a feature not a feature?
 
+There are a number of answers to this simple riddle...
 
+When a feature features on a feature list, but doesn't feature in the application, yet?
+When it's fully functional, but nobody uses it.
+When it's so slow that nobody uses it a second time?
+
+A few years ago, I worked on a feature which met all three of these definitions. It involes numerous
+layers of templating, saving and modifying hundreds of rows and a huge amount of database activity.
 
 ---
 
