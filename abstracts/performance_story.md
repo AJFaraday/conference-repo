@@ -1,6 +1,6 @@
-(title and abstract are options, not the finished proposal. These all refer to the same content and payoff)
+(title and abstract are options, not the finished proposal. These all refer to the same content and presentation)
 
-# Cyril the SQL Squirrel
+# Cyril the SQL Squirrel; how to handle a lot of data very quickly.
 
 *Cyril is a very hard-working squirrel who lives in my computer. 
 His job is to help me out by fetching information I have squirreled away in my database.
