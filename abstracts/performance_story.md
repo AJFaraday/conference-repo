@@ -42,9 +42,10 @@ with template rows for both the new plate and the transfer itself. For this reas
 it was an intolerable feature to use, and so it wasn't used. Nevertheless, it met requirements and was part
 of the app. In time, it was subject to enhancement requests, and performed even more slowly. 
 
-A year ago, I was tasked with improving the performance of this feature, and in the process 
-
-
+A year ago, I was tasked with improving the performance of this feature, and in the process learned a number 
+of techniques to improve performance when processing large quantities of data with relation to in-database 
+templates. This talk is a rundown of those techniques including presentation, duplication and manipulation of 
+hundreds of rows at a time.
 
 ---
 
